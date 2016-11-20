@@ -1,6 +1,6 @@
-1-WireHumidity
-==============
+1-WireHumidityLight
+===================
 
-1-Wire Humidity and Temperature sensor
+1-Wire Temperature, Humidity and Light sensor
 
-[WebSite](https://taaralabs.eu/oh1)
+[WebSite](https://taaralabs.eu/ol1)
